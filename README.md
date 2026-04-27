@@ -1,11 +1,22 @@
 # ai-data-analyst-app
 AI-powered data analysis app with automated cleaning, visualization, and GPT-based business insights using Streamlit.
 
+
 \# 📊 AI Data Analyst App
 
+
+
 An intelligent AI-powered data analysis tool that automatically cleans datasets, performs analysis, and generates business insights using GPT.
+
+
+
 \---
+
+
+
 \## 🚀 Features
+
+
 
 \- Automatic data cleaning
 
@@ -21,28 +32,53 @@ An intelligent AI-powered data analysis tool that automatically cleans datasets,
 
 \- AI-generated business insights using OpenAI
 
+
+
 \---
+
+
 
 \## 📁 Project Structure
+
 ai-data-analyst-app/
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 │
+
 ├── data/
+
 │ └── sample\_data.csv
+
 │
+
 ├── notebooks/
+
 │ └── analysis.ipynb
+
 │
+
 ├── outputs/
+
 │ ├── dashboard.png
+
 │ └── insights.png
+
+
 
 \---
 
+
+
 \## 🛠️ Technologies Used
+
+
 
 \- Python
 
@@ -142,5 +178,7 @@ streamlit run app.py
 
 
 Nivedhidha I
+
+
 
 
